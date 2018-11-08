@@ -1,0 +1,39 @@
+footer {
+  background-color: #2b2aa9;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 6px 6px 0px;
+}
+
+.social-icon {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+  }
+
+  .social-icon:hover {
+    color: #808080;
+  }
+
+  .social-bar {
+      list-style-type: none;
+  }
+
+  .social-item {
+      padding-left: 2%;
+      padding-right: 2%;
+      text-decoration: none!important;
+      transition: 0.3s;
+      padding-bottom: 50px;
+  }
+
+  .footer-text {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  hr {
+    color: white;
+  }
+
+
+  
